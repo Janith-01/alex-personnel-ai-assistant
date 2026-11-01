@@ -6,3 +6,7 @@ backend/target/
 out/
 .env
 *.log
+
+# Downloaded binaries and models (fetched via scripts/setup-voice-engine.ps1)
+voice-engine/whisper/bin/
+voice-engine/models/*.bin
