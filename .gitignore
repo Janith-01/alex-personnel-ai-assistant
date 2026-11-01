@@ -1,0 +1,8 @@
+backend/run.log
+backend/target/
+*.class
+.idea/
+*.iml
+out/
+.env
+*.log
